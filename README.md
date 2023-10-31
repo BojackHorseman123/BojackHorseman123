@@ -988,7 +988,7 @@ State Library Of Queensland / Flickr
 57. The ship slipped beneath the ocean's surface at 2:20 a.m. on April 15, 1912. The Titanic, believed to be unsinkable at the time, is one of the biggest disasters in commercial maritime history.
 Кейт Одэл / Wikimedia Commons
 
-<--- MAC(B4:5D:50:AA:86:41) NOW FIND THE SSID OF THE WAP --->
+<--- MAC(B4:5D:50:AA:86:41) --->
 The horse (Equus ferus caballus)[2][3] is a domesticated, one-toed, hoofed mammal. 
 It belongs to the taxonomic family Equidae and is one of two extant subspecies of Equus ferus. T
 he horse has evolved over the past 45 to 55 million years from a small multi-toed creature, close to Eohippus, i
